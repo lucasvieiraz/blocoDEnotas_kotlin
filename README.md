@@ -4,7 +4,7 @@ Este aplicativo permite criar, visualizar e gerenciar notas de maneira intuitiva
 ![](Ceep-live-Android-Kotlin-master/assets/ceep-app.gif)
 
 
-## Funcionalidades
+# Funcionalidades
 Adicionar Notas: Permite que os usuários criem novas notas com título e descrição, utilizando um formulário fácil de preencher.
 
 Alterar Notas: Os usuários podem editar notas existentes, garantindo que as informações estejam sempre atualizadas.
