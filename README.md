@@ -1,6 +1,6 @@
 App de exemplo na Live de Android com Kotlin
 
-![](assets/ceep-app.gif)
+![](Ceep-live-Android-Kotlin-master/assets/ceep-app.gif)
 
 # Iniciando o projeto
 
