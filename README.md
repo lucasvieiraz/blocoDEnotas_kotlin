@@ -5,7 +5,7 @@ Este aplicativo permite criar, visualizar e gerenciar notas de maneira intuitiva
 
 ![](Ceep-live-Android-Kotlin-master/assets/ceep-app.gif)
 
-![](blocoDEnotas_kotlin/incluir.gif)
+![](incluir.gif)
 
 
 
