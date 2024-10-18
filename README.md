@@ -1,33 +1,24 @@
-App de exemplo na Live de Android com Kotlin
+Este aplicativo permite criar, visualizar e gerenciar notas de maneira intuitiva e eficiente. Abaixo, você encontrará uma visão geral das funcionalidades e etapas do desenvolvimento.
 
 ![](Ceep-live-Android-Kotlin-master/assets/ceep-app.gif)
 
-# Iniciando o projeto
 
-- [ ]  Criação do projeto Ceep
-- [ ]  Execução do App
-- [ ]  Implementação da nota
-    - [ ]  `CardView`
-    - [ ]  `TextView` para título e descrição
+# Funcionalidades
+Adicionar Notas: Permite que os usuários criem novas notas com título e descrição, utilizando um formulário fácil de preencher.
 
-# Listagem
+Alterar Notas: Os usuários podem editar notas existentes, garantindo que as informações estejam sempre atualizadas.
 
-- [ ]  Utilização do `RecyclerView`
-- [ ]  Implementação do `RecyclerView.Adapter`
-    - [ ]  ViewHolder
-    - [ ]  bind de view
+Excluir Notas: Proporciona a opção de remover notas que não são mais necessárias, mantendo a lista organizada.
+
+
 
 # Adição de notas
 
-- [ ]  Criação do formulário
-- [ ]  Uso do FAB para acessar o formulário
-- [ ]  Criar nota e salvar no DAO a partir do formulário
-    - [ ]  Utilizar o companion objects para manter os dados do DAO sem depender da instância
+Criação do Formulário: Um formulário foi desenvolvido para facilitar a criação de novas notas para o usúario.
 
-# Apresentação de notas
+Uso do Floating Action Button (FAB): Um FAB é adicionado para permitir o acesso rápido ao formulário de criação.
 
-- [ ]  Criar tela de detalhes
-    - [ ]  Pegar a nota por meio do extras
-    - [ ]  Apresentar as informações da nota na tela
-- [ ]  Adicionar listener para cada menu
-    - [ ]  Na alteração, abrir o formulário e carregar a nota pela sua posição
+# Apresentação de Notas
+Tela de Detalhes: Uma tela dedicada permite que os usuários visualizem os detalhes de cada nota, utilizando dados passados por meio de extras.
+
+Interação com o Menu: O aplicativo possui listeners que permitem a edição e exclusão de notas, oferecendo uma experiência interativa ao usuário.
