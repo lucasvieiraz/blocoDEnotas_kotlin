@@ -1,7 +1,6 @@
 # Bloco de notas com Kotlin
 
-Este aplicativo permite criar, visualizar e gerenciar notas de maneira intuitiva e eficiente. Abaixo, você encontrará uma visão geral das funcionalidades e etapas do desenvolvimento.
-
+Este aplicativo permite criar, visualizar e gerenciar notas de maneira intuitiva e eficiente. 
 ![](Ceep-live-Android-Kotlin-master/assets/ceep-app.gif)
 
 
