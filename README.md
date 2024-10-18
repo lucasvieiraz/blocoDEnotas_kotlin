@@ -22,3 +22,6 @@ Alterar e Excluir Notas: Os usuários podem editar notas existentes, garantindo 
 
 - Quando o usuário clica em uma nota existente, ele é levado para a tela daquela nota, onde aparece um menu com duas funcionalidades: editar ou excluir que o usúario pode interagir.
 
+![]( sub.gif)
+ 
+
