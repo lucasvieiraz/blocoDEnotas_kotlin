@@ -20,7 +20,7 @@ Criação do Formulário: Um formulário foi desenvolvido para facilitar a cria�
 
 Uso do Floating Action Button (FAB): Um FAB é adicionado para permitir o acesso rápido ao formulário de criação.
 
-## Apresentação de Notas
+### Apresentação de Notas
 Tela de Detalhes: Uma tela dedicada permite que os usuários visualizem os detalhes de cada nota, utilizando dados passados por meio de extras (Título e descrição).
 
 Interação com o Menu: O aplicativo possui listeners que permitem a edição e exclusão de notas, oferecendo uma experiência interativa ao usuário (Quando clicado na nota).
