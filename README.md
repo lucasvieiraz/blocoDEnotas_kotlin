@@ -44,7 +44,7 @@ RS003: O armazenamento das notas pode ser local, utilizando banco de dados SQLit
 
 # 2- Arquitetura
 
-![](Captura de tela 2024-10-22 213534.png)
+Captura de tela 2024-10-22 213534.png
 
 ![](Captura de tela 2024-10-22 213555.png)
 
