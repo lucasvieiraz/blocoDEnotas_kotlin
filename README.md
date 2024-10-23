@@ -4,6 +4,10 @@ Este aplicativo permite criar e gerenciar notas de maneira intuitiva e eficiente
 
 
 ![](Ceep-live-Android-Kotlin-master/assets/ceep-app.gif)
+<div align="center">
+  <img src="Ceep-live-Android-Kotlin-master/assets/ceep-app.gif" alt="Texto alternativo" width="300"/>
+</div>
+
 
 
 # 1 - Plan
