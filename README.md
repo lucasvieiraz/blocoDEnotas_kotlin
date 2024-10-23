@@ -58,7 +58,7 @@ RS003: O armazenamento das notas pode ser local, utilizando banco de dados SQLit
 
 
 <div align="center">
-  <img src="foto2.png" alt="Texto alternativo" width="300"/>
+  <img src="foto2.png" alt="Texto alternativo" width="700"/>
 </div>
 
 
