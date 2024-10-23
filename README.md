@@ -2,8 +2,6 @@
 
 Este aplicativo permite criar e gerenciar notas de maneira intuitiva e eficiente. 
 
-
-![](Ceep-live-Android-Kotlin-master/assets/ceep-app.gif)
 <div align="center">
   <img src="Ceep-live-Android-Kotlin-master/assets/ceep-app.gif" alt="Texto alternativo" width="300"/>
 </div>
@@ -58,7 +56,11 @@ RS003: O armazenamento das notas pode ser local, utilizando banco de dados SQLit
 
 ![](foto.png)
 
-![](foto2.png)
+
+<div align="center">
+  <img src="foto2.pngf" alt="Texto alternativo" width="300"/>
+</div>
+
 
 # 2- Build
 
@@ -70,12 +72,17 @@ Adicionar Notas: Permite que os usuários criem novas notas com título e descri
 
 - Uso do Floating Action Button (FAB): Um FAB é adicionado para permitir o acesso rápido ao formulário de criação.
 
-  ![](incluir.gif)
+  <div align="center">
+  <img src="incluir.gif" alt="Texto alternativo" width="300"/>
+</div>
 
 Alterar e Excluir Notas: Os usuários podem editar notas existentes, garantindo que as informações estejam sempre atualizadas.
 
 - Quando o usuário clica em uma nota existente, ele é levado para a tela daquela nota, onde aparece um menu com duas funcionalidades: editar ou excluir que o usúario pode interagir.
 
-![]( sub.gif)
+<div align="center">
+  <img src="isub.gif" alt="Texto alternativo" width="300"/>
+</div>
+
  
 
