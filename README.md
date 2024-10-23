@@ -8,7 +8,7 @@ Este aplicativo permite criar e gerenciar notas de maneira intuitiva e eficiente
 
 # 1 - Plan
 
-## 1. Requisitos Funcionais (RF)
+## Requisitos Funcionais (RF)
 
 ### 1.1. Adicionar Notas
 RF001: O sistema deve permitir ao usuário criar novas notas com título e descrição.
@@ -29,7 +29,7 @@ RF007: O sistema deve permitir ao usuário excluir notas existentes.
 
 RF008: O usuário deve ser capaz de acessar a opção de exclusão ao clicar em uma nota específica e selecionar a opção de excluir no menu.
 
-## 2. Requisitos Não Funcionais (RNF)
+##  Requisitos Não Funcionais (RNF)
 
 ### 2.1. Interface do Usuário
 RNF001: A interface deve ser intuitiva, facilitando a navegação entre as funcionalidades.
@@ -42,7 +42,7 @@ RNF003: As operações de adição, edição e exclusão de notas devem ocorrer 
 ### 2.3. Usabilidade
 RNF004: O FAB deve estar visível em todas as telas que listam notas para facilitar o acesso rápido à criação de novas notas.
 
-## 3. Requisitos de Sistema (RS)
+##  Requisitos de Sistema (RS)
 
 RS001: O aplicativo deve ser desenvolvido utilizando a linguagem Kotlin.
 
@@ -50,13 +50,13 @@ RS002: O aplicativo deve ser compatível com dispositivos Android.
 
 RS003: O armazenamento das notas pode ser local, utilizando banco de dados SQLite ou outro mecanismo de persistência adequado.
 
-# 2- Arquitetura
+##  Arquitetura
 
 ![](foto.png)
 
 ![](foto2.png)
 
-# 3- Build
+# 2- Build
 
 ## Funcionalidades
 
