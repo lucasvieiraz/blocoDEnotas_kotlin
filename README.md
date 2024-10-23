@@ -58,7 +58,7 @@ RS003: O armazenamento das notas pode ser local, utilizando banco de dados SQLit
 
 
 <div align="center">
-  <img src="foto2.pngf" alt="Texto alternativo" width="300"/>
+  <img src="foto2.png" alt="Texto alternativo" width="300"/>
 </div>
 
 
@@ -81,7 +81,7 @@ Alterar e Excluir Notas: Os usuários podem editar notas existentes, garantindo 
 - Quando o usuário clica em uma nota existente, ele é levado para a tela daquela nota, onde aparece um menu com duas funcionalidades: editar ou excluir que o usúario pode interagir.
 
 <div align="center">
-  <img src="isub.gif" alt="Texto alternativo" width="300"/>
+  <img src="sub.gif" alt="Texto alternativo" width="300"/>
 </div>
 
  
